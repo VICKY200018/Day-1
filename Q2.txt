@@ -1,0 +1,10 @@
+Write a blog about objects and its internal representation in Javascript
+
+Object (obj):
+obj is an object with two properties: name and age.
+The name property is a string with the value 'Vignesh'.
+The age property is a number with the value 23.
+
+Array (arr):
+arr is an array with five elements: 1, 2, 3, 4, and 5.
+These data structures (obj and arr) are commonly used in JavaScript for organizing and manipulating data. Objects are used for key-value pairs, providing a way to represent entities, while arrays are used to store ordered collections of values. 
